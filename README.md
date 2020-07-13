@@ -1,4 +1,4 @@
 # Landmark_swiftUI
 walkthrough of iOS landmark build 
 
-![landmark](https://github.com/mattbhenley/Images/blob/master/Landmark.png)
+![landmark](https://github.com/mattbhenley/Images/blob/master/Landmark.png =100x100)
